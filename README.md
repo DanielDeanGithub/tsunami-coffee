@@ -1,8 +1,8 @@
+#### Objective provided by Codecademy
+
 ### WEB DEVELOPMENT FOUNDATIONS
 
 # Tsunami Coffee
-
-#### Objective provided by Codecademy:
 
 Use your knowledge of relative units and responsive web design to help Tsunami Coffee make their website come to life.
 
